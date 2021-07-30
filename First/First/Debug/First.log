@@ -1,0 +1,5 @@
+﻿  main.c
+L:\Shared files\coding\c first\First\First\main.c(4,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const int *'
+L:\Shared files\coding\c first\First\First\main.c(11,12): warning C4133: 'function': incompatible types - from 'char [20]' to 'const int *'
+L:\Shared files\coding\c first\First\First\main.c(5): warning C4716: 'hello': must return a value
+  First.vcxproj -> L:\Shared files\coding\c first\First\Debug\First.exe
